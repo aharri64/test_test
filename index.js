@@ -1,3 +1,3 @@
-let lame = 'this lesson'
 
-let language = 'blablablablabla'
+const hello = 'this is a test'
+
